@@ -70,3 +70,10 @@
 - **Dijkstra** → priority queue (min-heap) for weighted shortest path.  
 - **Completeness Check** → verify each node has edges to `n-1` nodes.  
 - **Booking Logic** → decrement seats, prevent overbooking, log transaction.
+
+- 
+## 📥 Download Project
+
+Due to GitHub file size restrictions, the full project files are available as a `.rar` archive here:
+
+🔗 [Download the full source (user_gui.rar)](https://drive.google.com/file/d/1p5mIwbzAKRllVGsoxWiitDuvBKas_I95/view?usp=sharing)
