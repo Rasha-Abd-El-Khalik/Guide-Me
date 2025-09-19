@@ -4,7 +4,6 @@
 ![WinForms](https://img.shields.io/badge/Windows%20Forms-GUI-lightgrey)
 ![Algorithms](https://img.shields.io/badge/Algorithms-BFS%2FDFS%2FDijkstra-orange)
 ![Graph](https://img.shields.io/badge/Data%20Structure-Graph-darkgreen)
-![Database](https://img.shields.io/badge/Database-SQLite%2FSQLServer-yellow)
 
 > **Guide Me** is a desktop route planning and booking application built with **C# .NET (WinForms)**.  
 > It supports two roles: **User** (search, view routes, book) and **Admin** (add/edit/delete routes, update fares).  
